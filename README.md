@@ -1,2 +1,2 @@
 # imc
-simple corporal mass index
+simple corporal mass index in flutter 
